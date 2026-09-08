@@ -1,4 +1,4 @@
 # sitioweb
 sitio web de practica CH72 Generation México
 
-* Tecnologías usadas: HTML, CSS, JS
+* Tecnologías usadas: HTML, CSS, JS y ya
